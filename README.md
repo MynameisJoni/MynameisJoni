@@ -11,7 +11,7 @@ Este perfil de GitHub está en construcción. Poco a poco iré desarrollando pro
 
 ### 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antonio-cabrera-peña-75035735b)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-cabrera-peña-75035735b)
 
 
 ### Stats
