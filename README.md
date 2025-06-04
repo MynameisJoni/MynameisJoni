@@ -5,4 +5,4 @@ Me llamo Antonio, aunque normalmente me presento como Joni (ya les contaré la h
 Este perfil de GitHub está en construcción. Poco a poco iré desarrollando proyectos personales e ideas para compartir mis conocimientos. No serán proyectos perfectos, pero espero que reflejen mi proceso de aprendizaje. Cualquier aportación de ideas, correcciones o mejoras será bienvenida!
 
 
-![MynameisJoni's Stats](https://github-readme-stats.vercel.app/api?username=MynameisJoni&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MynameisJoni&theme=github-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
